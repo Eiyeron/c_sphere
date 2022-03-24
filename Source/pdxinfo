@@ -1,0 +1,5 @@
+name=Sphere
+author=Eiyeron
+description=A sphere sketch
+bundleID=me.retroactive.sphere
+imagePath=images/card
